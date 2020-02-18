@@ -60,3 +60,11 @@ ul.color {
     margin-right: 10px;
     padding: 0 4px;
   }
+p.Colores {
+    text-align: center;
+    color: yellow;
+    border-top: orange 5px dotted;
+    border-left: red 34px dashed;
+    border-right: red 34px dashed;
+    border-bottom: yellow 12px dashed;
+}
