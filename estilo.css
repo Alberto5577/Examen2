@@ -24,10 +24,39 @@ a {
     text-align: center;
     padding-left: 10px;
     padding-right: 10px;
+    padding-bottom: 0px;
+}
+a.rojo {
+    p.onmouseover {
+
+    }
 }
 table {
 border-spacing: 60px;
+padding-bottom: 0px;
 }
 article.Uno{
     background-color: lightyellow;
+    padding-top: 0px;
+    
 }
+article.Dos {
+    background-color: lightsteelblue;
+
+}
+table.DOS {
+    background-color: chocolate;
+    border-collapse: collapse;
+}
+
+ul.color {
+    list-style-type: none;
+  }
+  
+  li.color {
+    background-color: lightblue;
+    border: #D7C8B6 2px solid;
+    float: left;
+    margin-right: 10px;
+    padding: 0 4px;
+  }
